@@ -8,4 +8,6 @@ HPI code.R is the R code for forecasting analysis. The required data is attached
 
 HPI code.R是预测分析的R 代码；同时，所需的数据在data文件夹中。
 
-You could also go to 
+You could also go to VECM FINAL PROJECT.pdf to read my report.
+
+你也可以打开VECM FINAL PROJECT.pdf去阅读我的最终项目报告。
